@@ -1,4 +1,8 @@
+# ignoring site folder since it can be generated
 _site/
-.sass-cache/
+
+Gemfile
+Gemfile.lock
+
+.DS_Store
 .jekyll-cache/
-.jekyll-metadata

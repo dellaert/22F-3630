@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+          tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+        });
+
+      MathJax.Hub.Queue(function() {
+          var all = MathJax.Hub.getAllJax(), i;
+          for(i=0; i < all.length; i += 1) {
+              all[i].SourceElement().parentNode.className += ' has-jax';
+          }
+      });
+
+</script>
+
+<script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Introduction to Computer Vision</h1>
+        <p>Georgia Tech CS 4476 Fall 2019 edition</p>
+
+        <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="http://szeliski.org/Book/">Book</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        </ul>
+        <ul>
+        <li><a href="syllabus.html">Syllabus</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        </ul>
+
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p>This project is maintained by Frank Dellaert and the TAs in CS 4476</p>
+        <p>Based on a theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }});
+    </script>
+
+  </body>
+</html>

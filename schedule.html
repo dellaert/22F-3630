@@ -1,0 +1,33 @@
+---
+layout: vertical
+title: Schedule
+---
+<p>Note that while the schedule follows the organization in Szeliski's book, <b>deep learning</b> topics will be integrated throughout the course, having profoundly influenced the state of the art across all of computer vision.</p>
+<!--table border="1"-->
+<table>
+  <thead>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td><strong>Topic</strong></td>
+      <td><strong>Slides</strong></td>
+      <td><strong>Reading</strong></td>
+      <td><strong>Projects</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in site.data.Schedule %}
+    <tr>
+      <td>{{item.Day}}, {{item.Month}} {{item.Date}}</td>
+      <td>{{item.Szeliski}}</td>
+      <td>
+        {% unless item.Slides == "-" %}
+          <a href="Slides/{{item.Slides}}.pptx">pptx</a>, 
+          <a href="Slides/{{item.Slides}}.pdf">pdf</a>
+        {% endunless %}
+      </td>
+      <td>{{item.Reading}}</td>
+      <td>{{item.Projects}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
