@@ -4,13 +4,13 @@ title: Project 1 - Template
 ---
 
 <center>
-    <img src="images/proj1/hybrid_image.jpg">
+    <img src="images/cover-image.jpg">
     <br>
     A nice image
     <br><br>
 </center>
 
-# Project 1: Image Filtering and Hybrid Images
+# Project 1: Agents
 
 ## Brief
 * Due: some time
