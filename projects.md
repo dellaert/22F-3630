@@ -5,10 +5,10 @@ title: Projects
 
 # Projects
 
-1. [Project 1](projects/project1.md)
-2. TBD
-3. TBD
-4. TBD
-5. TBD
-6. TBD
-7. TBD
+1. [Building DuckieBot & Probabilistic Inference](projects/project1.md)
+2. Differential Drive
+3. Planar Manipulators
+4. Vision
+5. Self-Driving
+6. Visual SLAM
+7. Learning
