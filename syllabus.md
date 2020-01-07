@@ -16,23 +16,23 @@ Upon completion of this course, students will be able to:
 
 ### Prerequisites
 The only formal prerequisite is CS1332 Data Structures & Algorithms. Prior knowledge of fundamentals of linear algebra and probability is helpful, but not required.  Background in AI and Machine Learning is not assumed.
-The course requires access to a laptop and a mobile device (cell phone or tablet) running Android or iOS.  If you don’t have access to these, please contact the instructor ASAP.  All programming assignments will be completed in Python.
+The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python.
 
 ### Grading
-This project is heavily project-based, but there will be a midterm and final, each covering about half of the material. 
-In addition, we will do about 10 small quizzes with simple questions that will be worth 1% each.
+This course is heavily project-based. In addition to projects, there will be seven short quizzes. We'll drop the two lowest quiz scores, so that only five of the quizzes will count toward your grade.
+
 The grading distribution is:
 
 | Component     | Nr. | Grade | Total |
 |---------------|-----|-------|-------|
-| Projects      | 7   | 12.5% |  70%  |
-| Midterm       |     | 10%   |  10%  |
-| Final         |     | 10%   |  10%  |
-| Participation |     | 5%    |  10%   |
+| Projects      | 7   | 10%   |  70%  |
+| Quizzes       | 7/5 | 6%    |  30%  |
 |---------------|-----|-------|-------|
 |               |     |       | 100%  |
 
-Late policy for this course will be 20% per day late, as discussed on the first day of class and clarified on [Piazza](https://piazza.com/class/jzehgqjjgpz6bb?cid=13).
+The Late policy for this course will be 20% per day late, as clarified on [Piazza](https://piazza.com/class/jzehgqjjgpz6bb?cid=13).
+
+Because we drop the lowest two quiz scores, we will not give make-up quizzes for class absences (even if these would normally be excused absences).  If you miss a quiz, that quiz score will be dropped as one of your two lowest quiz scores.
 
 ### Academic Integrity
 Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu. For quizzes, no supporting materials are allowed (notes, calculators, phones, etc).
