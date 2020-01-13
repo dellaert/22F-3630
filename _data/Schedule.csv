@@ -1,7 +1,7 @@
 ﻿Week,Month,Date,Day,Parts,Topic,Projects,Quizzes,Slides,Reading
 1,Jan,6,Mon,,Introduction,,,L1_Course_Overview,
 1,Jan,8,Wed,,Sense-Think-Act,1 out,,L2_Sense_Think_Act,
-2,Jan,13,Mon,Agents,Probability and Bayes Nets,,,-,
+2,Jan,13,Mon,Agents,Probability and Bayes Nets,,,L3_Probability_Bayes_Nets,
 2,Jan,15,Wed,,Inference in Graphical Models,,,-,
 3,Jan,20,Mon,,<<< MLK Holiday >>>,1 due - 2 out,,-,
 3,Jan,22,Wed,,Acting Optimally,,,-,
