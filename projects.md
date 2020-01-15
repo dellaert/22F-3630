@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 
-1. [Building DuckieBot & Probabilistic Inference](projects/project1.md)
+1. [Building DuckieBot & Probabilistic Inference](https://colab.research.google.com/drive/1TnhLoe690Dc-ErJioo-txg08S70nArEh)
 2. Differential Drive
 3. Planar Manipulators
 4. Vision
