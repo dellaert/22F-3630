@@ -36,7 +36,7 @@ Reflection Submission:
 2. Save the power point file as a PDF (File > Save As > PDF).
 3. Rename the PDF to {FirstName_LastName}.pdf.
 
-Finally, submit a pdf file containing the reflection answers on Canvas. Only one submission per group.
+Finally, submit a pdf file containing the reflection answers on Canvas. Only one submission per person.
 
 
 ---
