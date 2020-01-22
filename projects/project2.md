@@ -7,7 +7,7 @@ title: Projects
 
 Due Date: Monday, February 3, 2020 @ 11:59 P.M.
 
-Follow the instructions and complete the assignment found here: https://colab.research.google.com/drive/14vHXKHAEbne-g7Dk_FtGbbhL1idVQPUR
+Follow the instructions and complete the assignment found here: [Assignment Link](https://colab.research.google.com/drive/14vHXKHAEbne-g7Dk_FtGbbhL1idVQPUR)
 
 # Submission
 
