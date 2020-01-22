@@ -52,7 +52,7 @@ If needed, we will make classroom accommodations for students with documented di
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
 
 The TA Office hour will the held in the Robotics Lab i.e. Room 030 in the College of Computing building. The hours can be found here: 
-https://outlook.office365.com/owa/calendar/c6f829396e254e7ca8c22db46371fc7c@gatech.edu/e3e54dfaf9874cef8c33bc4b1762458e2224894471308084280/calendar.html
+[Office Hours](https://outlook.office365.com/owa/calendar/c6f829396e254e7ca8c22db46371fc7c@gatech.edu/e3e54dfaf9874cef8c33bc4b1762458e2224894471308084280/calendar.html)
 
 * Ria Verma (rverma35@gatech.edu)
 * Fan Jiang
