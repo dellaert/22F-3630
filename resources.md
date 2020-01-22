@@ -4,6 +4,7 @@ title: Resources
 ---
 ## Notes
 * [Probabilityand Bayes Nets](notes/1-Bayes-nets.pdf)
+* [Inference in HMMs](notes/1-hmm-inference-diff.pdf). Same as notes below, but with differences highlighted.
 * [Inference in Graphical Models](notes/1-hmm-inference.pdf)
 
 ## From the web

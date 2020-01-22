@@ -24,7 +24,11 @@ title: Schedule
           <a href="Slides/{{item.Slides}}.pdf">pdf</a>
         {% endunless %}
       </td>
-      <td>{{item.Reading}}</td>
+      <td>
+        {% unless item.Reading == "-" %}
+          <a href="notes/{{item.Slides}}.pdf">pdf</a>
+        {% endunless %}
+      </td>
       <td>{{item.Projects}}</td>
       <td>{{item.Quizzes}}</td>
     </tr>
