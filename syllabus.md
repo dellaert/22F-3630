@@ -50,7 +50,22 @@ If needed, we will make classroom accommodations for students with documented di
 
 ### Contact Info and Office Hours:
 If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
-* Ria Verma
+
+The TA Office hour will the held in the Robotics Lab i.e. Room 030 in the College of Computing building. The hours can be found here: 
+[Office Hours](https://outlook.office365.com/owa/calendar/c6f829396e254e7ca8c22db46371fc7c@gatech.edu/e3e54dfaf9874cef8c33bc4b1762458e2224894471308084280/calendar.html)
+
+* Ria Verma (rverma35@gatech.edu)
+* Fan Jiang
+* Shicong Ma
+* Vinod Kumar
+* Hemanth Chittanuru
+* Rachit Bhargava
+* Chaitya Shah
+* Binit Shah
+* Sanmeshkumar Udhayakumar
+* Sereym Baek
+* Tarushee Gandhi
+* John Seon Keun Yi
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
