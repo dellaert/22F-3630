@@ -2,9 +2,9 @@
 1,Jan,6,Mon,,Seth,Introduction,L1_Course_Overview,-,,
 1,Jan,8,Wed,,Seth,Sense-Think-Act,L2_Sense_Think_Act,-,1 out,
 2,Jan,13,Mon,Agents,Frank,Probability and Bayes Nets,L3_Probability_Bayes_Nets,1-Bayes-nets,,
-2,Jan,15,Wed,,Frank,Inference in HMMs,L4_HMM_Inference,1-hmm-inference-diff.pdf,,
+2,Jan,15,Wed,,Frank,Inference in HMMs,L4_HMM_Inference,1-hmm-inference-diff,,
 3,Jan,20,Mon,,<<< MLK Holiday >>>,<<< MLK Holiday >>>,-,-,,
-3,Jan,22,Wed,,Frank,Inference in Graphical Models,L5_General_Inference,1-hmm-inference.pdf,1 due - 2 out,
+3,Jan,22,Wed,,Frank,Inference in Graphical Models,L5_General_Inference,1-hmm-inference,1 due - 2 out,
 4,Jan,27,Mon,A DiffDrive Robot,Seth,Kinematics in the Plane,-,-,,Quiz 1
 4,Jan,29,Wed,,Frank,Monte Carlo Inference,-,-,,
 5,Feb,3,Mon,,Seth,Continuous Path Planning,-,-,2 due - 3 out,
