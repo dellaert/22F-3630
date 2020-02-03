@@ -12,6 +12,9 @@ title: Resources
 ### On Bayes nets
 * [Bayes nets without tears](https://aaai.org/ojs/index.php/aimagazine/article/view/918)
 * [Some lecture notes from UCF](http://www.cs.ucf.edu/~mingjie/ECM6308/rand0.pdf)
+### Monte Carlo Localization
+* [The original 1999 MCL paper](https://www.ri.cmu.edu/publications/monte-carlo-localization-for-mobile-robots/)
+* [MCL 2001 Journal paper](https://www.ri.cmu.edu/publications/robust-monte-carlo-localization-for-mobile-robots/)
 
 ## Other Resources
 
