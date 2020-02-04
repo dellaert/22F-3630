@@ -5,7 +5,7 @@ title: Projects
 
 # Project 3
 
-You'll be using your DuckieBot for this project! Your submissions
+You'll be using your DuckieBot for this project and working with your partner!
 
 Project 3 has two parts:
 ## Part 1
