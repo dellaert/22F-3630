@@ -2,9 +2,9 @@
 layout: default
 title: Resources
 ---
-## Notes
+## Course Notes
 
-### Agents in Discrete worlds
+### Agents
 
 * [Probabilityand Bayes Nets](notes/1-Bayes-nets.pdf)
 * [Inference in HMMs](notes/1-hmm-inference-diff.pdf). Same as notes below, but with differences highlighted.
@@ -12,7 +12,7 @@ title: Resources
 * [Prof. Hutchinson's Intro to Probability Review Session Slides](Slides/Review_Session_Intro_Probability.pdf)
 * [Inference in Graphical Models](notes/1-hmm-inference.pdf)
 
-### Agents in Discrete worlds
+### A Differential Drive Robot
 * [Continuous Densities and Monte Carlo Localization](notes/2-Monte-Carlo-inference.pdf)
 
 ## From the web
