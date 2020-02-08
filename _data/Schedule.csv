@@ -8,7 +8,7 @@
 4,Jan,27,Mon,A DiffDrive Robot,Seth,Kinematics in the Plane,L6_Pose_in_the_Plane,-,,Quiz 1
 4,Jan,29,Wed,,Seth,Continuous Path Planning,L7_DD_Motion_Planning,-,,
 5,Feb,3,Mon,,Frank,Monte Carlo Inference,L8_Monte_Carlo_Inference,2-Monte-Carlo-inference,2 due - 3 out,
-5,Feb,5,Wed,,Seth,Sampling-based Planning,-,-,,
+5,Feb,5,Wed,,Seth,Sampling-based Planning,L9_Sampling-Based_Planning,-,,
 6,Feb,10,Mon,Planar Manipulators,Frank,Forward Kinematics,-,-,,Quiz 2
 6,Feb,12,Wed,,Frank,Jacobians and Trajectory Control,-,-,,
 7,Feb,17,Mon,,Seth,Inverse Kinematics,-,-,3 due - 4 out,
