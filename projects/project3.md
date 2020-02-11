@@ -16,4 +16,4 @@ Please note that we recommend students complete Part 1 before Part 2 is released
 
 ## Part 2
 [Due Date: Monday, February 17, 2020 @ 11:59 P.M.]  
-This part will be released on February 10.
+Follow the instructions and complete the assignment found here: [Assignment Link](https://colab.research.google.com/drive/1KyQUqBmIg5zCVMt9gP0MseDVb83YKIjv#scrollTo=zkgy0VuUawzB)  
