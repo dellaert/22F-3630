@@ -11,12 +11,12 @@ Upon completion of this course, students will be able to:
 * describe mathematically the position and orientation of objects and how they move 
 * Develop a control architecture for a mobile robotic system 
 * Implement navigation and localization algorithms based on sensor fusion and environment representation 
-* Write moderately involved programs in Python to control a robotic system 
+* Write moderately involved programs in Python and Java to control a robotic system 
 * Construct, program, and test the operation of a robotic system to perform a speciﬁed task. 
 
 ### Prerequisites
 The only formal prerequisite is CS1332 Data Structures & Algorithms. Prior knowledge of fundamentals of linear algebra and probability is helpful, but not required.  Background in AI and Machine Learning is not assumed.
-The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python.
+The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python or Java.
 
 ### Grading
 This course is heavily project-based. In addition to projects, there will be seven short quizzes. We'll drop the two lowest quiz scores, so that only five of the quizzes will count toward your grade.
