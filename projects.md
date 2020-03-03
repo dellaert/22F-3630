@@ -9,6 +9,6 @@ title: Projects
 2. [Probabilistic Inference](projects/project2.md)
 3. [Differential Drive](projects/project3.md)
 4. [Planar Manipulators](projects/project4.md)
-5. Vision
+5. [Vision](projects/project5.md)
 6. Self-Driving
 7. Visual SLAM
