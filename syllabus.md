@@ -49,12 +49,12 @@ If needed, we will make classroom accommodations for students with documented di
 * [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
 
 ### Contact Info and Office Hours:
-If possible, please use Piazza to ask questions and seek clarifications before emailing the instructor or staff.
+Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information (your gt id number etc.), make a private post on Piazza.
 
 The TA Office hour will the held in the Robotics Lab i.e. Room 030 in the College of Computing building. The hours can be found here: 
 [Office Hours](https://outlook.office365.com/owa/calendar/c6f829396e254e7ca8c22db46371fc7c@gatech.edu/e3e54dfaf9874cef8c33bc4b1762458e2224894471308084280/calendar.html)
 
-* Ria Verma (rverma35@gatech.edu)
+* Ria Verma
 * Fan Jiang
 * Shicong Ma
 * Vinod Kumar
