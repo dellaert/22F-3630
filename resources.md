@@ -15,6 +15,12 @@ title: Resources
 ### A Differential Drive Robot
 * [Continuous Densities and Monte Carlo Localization](notes/2-Monte-Carlo-inference.pdf)
 
+### Planar Manipulators
+* [Computer Vision Introduction and Fundamentals](notes/3-planar-manipulators.pdf)
+
+### Vision for Robots
+* [Computer Vision Introduction and Fundamentals](notes/4-hmm-inference.pdf)
+
 ## From the web
 
 ### On Bayes nets
