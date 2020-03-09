@@ -13,4 +13,4 @@ Project 5 has two parts:
 Follow the instructions and complete the assignment found here: [Assignment Link](https://colab.research.google.com/drive/1jVnM0Jj3m4UqQiet2XQkdXPK_of7XWqw)  
 
 ## Part 2  
-Will be released by Monday, March 9.
+Follow the instructions and complete the assignment found here: [Assignment Link](https://colab.research.google.com/drive/1uStmRjtLrofyELRzbJNJKvDZoqwCifg2)
