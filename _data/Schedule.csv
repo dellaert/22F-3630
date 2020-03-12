@@ -21,13 +21,13 @@
 10,Mar,11,Wed,,Frank,Iterated Closest Points,L17_ICP,-,,
 11,Mar,16,Mon,,<<< Spring Break >>>,<<< Spring Break >>>,-,-,,
 11,Mar,18,Wed,,<<< Spring Break >>>,<<< Spring Break >>>,-,-,,
-12,Mar,23,Mon,,Frank,SLAM with LIDAR,-,-,5 due - 6 out,
+12,Mar,23,Mon,,Frank,SLAM with LIDAR,-,-,,
 12,Mar,25,Wed,,Seth,Motion Planning for Driving,-,-,,
-13,Mar,30,Mon,Visual SLAM,Frank,Two-view Geometry and RANSAC,-,-,,Quiz 5
+13,Mar,30,Mon,Visual SLAM,Frank,Two-view Geometry and RANSAC,-,-,5 due - 6 out,Quiz 5
 13,Apr,1,Wed,,Frank,Visual Odometry,-,-,,
-14,Apr,6,Mon,,Seth,Feature Detection,-,-,6 due - 7 out,
+14,Apr,6,Mon,,Seth,Feature Detection,-,-,,
 14,Apr,8,Wed,,Frank,Structure from Motion,-,-,,
 15,Apr,13,Mon,Learning,Seth,Reinforcement Learning,-,-,,Quiz 6
 15,Apr,15,Wed,,Frank,Deep Reinforcement Learning,-,-,,
-16,Apr,20,Mon,,Frank,Deep Learning for Robot Vision,-,-,7 due,
+16,Apr,20,Mon,,Frank,Deep Learning for Robot Vision,-,-,6 due,
 ,Apr,29,Wed,No exam: regular quiz,,2:40 PM ‐ 5:30 PM,-,-,,Quiz 7
