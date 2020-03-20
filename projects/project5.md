@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # Project 5
-[Due Date: Monday, March 23, 2020 @ 11:59 P.M.]  
+[Due Date: Monday, March 30, 2020 @ 11:59 P.M.]  
 
 In this project, you will be capturing images using the duckiebot camera while moving forward on a "road" with lanes in part 1, and then use those images to get the orientation of the robot on the road.  
 
