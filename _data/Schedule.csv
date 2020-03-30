@@ -23,7 +23,7 @@
 11,Mar,18,Wed,,,<<< Spring Break >>>,-,-,,,,
 12,Mar,23,Mon,,,<<< No Lectures >>>,-,-,,,,
 12,Mar,25,Wed,,,<<< No Lectures >>>,-,-,,,,
-13,Mar,30,Mon,,Frank,SLAM with LIDAR,-,-,5 due - 6 out,,18,Two-view Geometry and RANSAC
+13,Mar,30,Mon,,Frank,SLAM with LIDAR,L18_LIDAR_SLAM,5-Lidar-SLAM,5 due - 6 out,,18,Two-view Geometry and RANSAC
 13,Apr,1,Wed,,Seth,Motion Planning for Driving,-,-,,,19,Visual Odometry
 14,Apr,6,Mon,Learning,Frank,Deep Learning for Vision I,-,-,,Quiz 5,20,
 14,Apr,8,Wed,,Frank,Deep Learning for Vision II,-,-,,,21,
