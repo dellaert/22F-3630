@@ -1,4 +1,4 @@
-﻿Week,Month,Date,Day,Parts,Instructor,Topic,Slides,Reading,Projects,Quizzes,,
+Week,Month,Date,Day,Parts,Instructor,Topic,Slides,Reading,Projects,Quizzes,,
 1,Jan,6,Mon,,Seth,Introduction,L1_Course_Overview,-,,,,
 1,Jan,8,Wed,,Seth,Sense-Think-Act,L2_Sense_Think_Act,-,1 out,,,
 2,Jan,13,Mon,Agents,Frank,Probability and Bayes Nets,L3_Probability_Bayes_Nets,1-Bayes-nets,,,,
@@ -25,7 +25,7 @@
 12,Mar,25,Wed,,,<<< No Lectures >>>,-,-,,,,
 13,Mar,30,Mon,,Frank,SLAM with LIDAR,L18_LIDAR_SLAM,5-Lidar-SLAM,5 due - 6 out,,18,Two-view Geometry and RANSAC
 13,Apr,1,Wed,,Seth,Motion Planning for Driving,L19_Motion_Planning_for_Cars,-,,,19,Visual Odometry
-14,Apr,6,Mon,Learning,Frank,Deep Learning for Vision I,-,-,,Quiz 5,20,
+14,Apr,6,Mon,Learning,Frank,Deep Learning for Vision I,L20_Deep-Learning,-,,Quiz 5,20,
 14,Apr,8,Wed,,Frank,Deep Learning for Vision II,-,-,,,21,
 15,Apr,13,Mon,,Seth,Reinforcement Learning I,-,-,,,22,
 15,Apr,15,Wed,,Seth,Reinforcement Learning II,-,-,,,23,
