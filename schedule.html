@@ -7,6 +7,7 @@ title: Schedule
   <thead>
     <tr>
       <td><strong>Date</strong></td>
+      <td><strong>Module</strong></td>
       <td><strong>Topic</strong></td>
       <td><strong>Slides</strong></td>
       <td><strong>Reading</strong></td>
@@ -15,9 +16,10 @@ title: Schedule
     </tr>
   </thead>
   <tbody>
-    {% for item in site.data.Schedule %}
+    {% for item in site.data.21S-3630-Schedule %}
     <tr>
       <td>{{item.Day}}, {{item.Month}} {{item.Date}}</td>
+      <td>{{item.Module}}</td>
       <td>{{item.Topic}}</td>
       <td>
         {% unless item.Slides == "-" %}
