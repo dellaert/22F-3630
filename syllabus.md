@@ -22,10 +22,10 @@ The course requires access to a laptop.  If you don’t have access to a laptop,
 **Important: You cannot take this class unless you can make the regularly scheduled class periods at 3.30pm**.
 
 - **Lectures** will be pre-recorded and available 2 workdays before class time. Students are expected to watch the lecture *before* each class time.
-- **Questionnaires**: to reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire the evening before the scheduled class time. This will count for **5%** of your grade.
+- **Questionnaires**: to reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire by Sunday evening about the two lectures assigned for viewing. This will count for **5%** of your grade.
 - **Quizzes**: there will be 5 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%**. Quizzes will have a combination of multiple choice and essay questions, as appropriate.
 - **Q&A**: students are expected to attend each class period, Monday and Wednesday at 3.30. Class will start with a 30 minute quick review and Q&A, followed by project-related activities (see below).
-- **Activities**: there will be six projects, each having an in-class activity component which forms an integral part of your participation grade, for a total of **5%**.
+- **Activities**: there will be six projects, each having an in-class activity component which forms an integral part of your participation grade, for a total of **5%**. For these activities, you will be placed in groups that will remain stable for two projects, then shuffled.
 - **Projects**: each project will additionally have a powerpoint template that will have to be submitted on gradescope as a pdf and, possibly accompanied with code and/or videos. Project deliverables will make up **60%** of your grade.
 
 ### Grading
@@ -33,7 +33,7 @@ The grading distribution is:
 
 | Component      | Nr. | Grade | Total |
 |----------------|-----|-------|-------|
-| Questionnaires | 23  | 5%/23 |   5%  |
+| Questionnaires | 12  | 5%/12 |   5%  |
 | Quizzes        | 5   | 6%    |  30%  |
 | Activities     | 23  | 5%/23 |   5%  |
 | Projects       | 6   | 10%   |  60%  |
@@ -53,7 +53,7 @@ If needed, we will make classroom accommodations for students with documented di
 
 ### Important Links:
 * [Piazza](https://piazza.com/class/kjt7ct7gaf52e1). This should be your first stop for questions and announcements.
-* [canvas.gatech.edu](https://canvas.gatech.edu/) will be used to hand in assignments.
+* [canvas.gatech.edu](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos .
 
 ### Contact Info and Office Hours:
 Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information (your gt id number etc.), make a private post on Piazza.
