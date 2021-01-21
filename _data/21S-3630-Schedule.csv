@@ -1,7 +1,7 @@
 ﻿Week,Month,Date,Day,Instructor,Module,Organization,Topic,GM,Slides,Reading,Quizzes,Projects
 1,Jan,18,Mon,,,,MLK,,-,-,,
-1,Jan,20,Wed,Frank,,,Introduction,,-,-,,1 out (Fri noon)
-2,Jan,25,Mon,Seth,Agents,Fully observable ,Dijkstra etc,,-,-,,Braitenberg
+1,Jan,20,Wed,Frank,,,Introduction,,L0_Introduction,-,,1 out (Fri noon)
+2,Jan,25,Mon,Seth,Agents,Fully observable ,Search-Based Planning,,-,-,,Braitenberg
 2,Jan,27,Wed,Frank,,Action Uncertainty ,Probabilistic Actions,BN,-,-,,
 3,Feb,1,Mon,Seth,,,Markov Decision Processes,FG,-,-,,
 3,Feb,3,Wed,Frank,,State Uncertainty,Probability and Bayes Nets,BN,-,-,,2 out - 1 due
