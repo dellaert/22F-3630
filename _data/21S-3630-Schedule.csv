@@ -3,7 +3,7 @@
 1,Jan,20,Wed,Frank,,,Introduction,,L1_Introduction,-,,1 out (Fri 22 noon)
 2,Jan,25,Mon,Seth,Agents,Fully observable ,Sense-Think-Act/Graph Search,,L2_Sense_Think_Act_and_Graph_Search,-,,Braitenberg
 2,Jan,27,Wed,Frank,,Action Uncertainty ,Probabilistic Actions,BN,L3_Probabilistic_Actions,N3_Probabilistic_Actions,,
-3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,-,,
+3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,N4_MDP,,
 3,Feb,3,Wed,Frank,,,Markov Decision Processes (cont'd),,-,-,,2 out - 1 due (Fri 5)
 4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and HMMs,BN,-,-,,Agents
 4,Feb,10,Wed,Frank,,,Inference in Graphical Models,FG,-,-,Quiz 1,
