@@ -6,7 +6,7 @@
 3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,N4_MDP,,
 3,Feb,3,Wed,Frank,,,Markov Decision Processes (cont'd),,-,-,,2 out - 1 due (Fri 5)
 4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and Inference,BN,L5_Bayes_Nets,N5_Bayes_nets,,Agents
-4,Feb,10,Wed,Frank,,,Inference in Factor Graphs,FG,-,-,Quiz 1,
+4,Feb,10,Wed,Frank,,,Inference in Factor Graphs,FG,L6_Inference_Factor_Graphs,N6_Inference_Factor_Graphs,Quiz 1,
 5,Feb,15,Mon,Seth,Blind Duckiebot,Fully observable ,Kinematics in the Plane,,-,-,,
 5,Feb,17,Wed,Seth,,,RRT and Probabilistic Roadmaps,(FG),-,-,,3 out - 2 due (Fri 19)
 6,Feb,22,Mon,Seth,,Action Uncertainty ,Growing Obstacles + Voronoi,,-,-,,Motion Planning
