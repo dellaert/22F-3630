@@ -5,7 +5,7 @@
 2,Jan,27,Wed,Frank,,Action Uncertainty ,Probabilistic Actions,BN,L3_Probabilistic_Actions,N3_Probabilistic_Actions,,
 3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,N4_MDP,,
 3,Feb,3,Wed,Frank,,,Markov Decision Processes (cont'd),,-,-,,2 out - 1 due (Fri 5)
-4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and Inference,BN,L5_Bayes_nets,N5_Bayes_nets,,Agents
+4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and Inference,BN,L5_Bayes_Nets,N5_Bayes_nets,,Agents
 4,Feb,10,Wed,Frank,,,Inference in Factor Graphs,FG,-,-,Quiz 1,
 5,Feb,15,Mon,Seth,Blind Duckiebot,Fully observable ,Kinematics in the Plane,,-,-,,
 5,Feb,17,Wed,Seth,,,RRT and Probabilistic Roadmaps,(FG),-,-,,3 out - 2 due (Fri 19)
