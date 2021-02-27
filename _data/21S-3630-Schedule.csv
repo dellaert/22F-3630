@@ -10,9 +10,9 @@
 5,Feb,15,Mon,Seth,Blind Duckiebot,Fully observable ,Kinematics in the Plane,,L7_Pose_in_the_Plane_and_diff_drive_robots,-,,
 5,Feb,17,Wed,Seth,,,Sampling-based Planning Part 1,(FG),L8_Sampling-Based_Planning-Part1,-,,3 out - 2 due (Fri 19)
 6,Feb,22,Mon,Seth,,Action Uncertainty ,Sampling-based Planning Part 2,,L9_Sampling-Based_Planning-Part2,-,,Motion Planning
-6,Feb,24,Wed,Frank,,,Continuous densities,BN,L10_Continuous_Densities,-,,
-7,Mar,1,Mon,Frank,,State Uncertainty,Monte Carlo Localization,(FG),L11_Monte_Carlo_Inference,-,Quiz 2,
-7,Mar,3,Wed,Seth,Car + LIDAR,,Autonomous Vehicles,,-,-,,4 out - 3 due (Fri 5)
+6,Feb,24,Wed,Frank,,,Continuous densities,BN,L10_Continuous_Densities,N10_Continuous_Densities,,
+7,Mar,1,Mon,Frank,,State Uncertainty,Monte Carlo Localization,(FG),L11_Monte_Carlo_Inference,N11_Monte_Carlo_Inference,Quiz 2,
+7,Mar,3,Wed,Seth,Car + LIDAR,,Autonomous Vehicles,,L12_Motion_Planning_for_Cars,-,,4 out - 3 due (Fri 5)
 8,Mar,8,Mon,Frank,,,Trajectory Optimization,FG,-,-,,Monte Carlo Localization
 8,Mar,10,Wed,Seth,,,Iterated Closest Points,,-,-,,
 9,Mar,15,Mon,Frank,,,SLAM with LIDAR,FG,-,-,Quiz 3,
