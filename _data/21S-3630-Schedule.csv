@@ -1,30 +1,30 @@
-﻿Week,Month,Date,Day,Instructor,Module,Organization,Topic,GM,Slides,Reading,Quizzes,Projects
-1,Jan,18,Mon,,,,MLK,,-,-,,
-1,Jan,20,Wed,Frank,,,Introduction,,L1_Introduction,-,,1 out (Fri 22 noon)
-2,Jan,25,Mon,Seth,Agents,Fully observable ,Part I: Sense-Think-Act/Graph Search,,L2_Sense_Think_Act_and_Graph_Search,-,,Braitenberg
-2,Jan,27,Wed,Frank,,Action Uncertainty ,Probabilistic Actions,BN,L3_Probabilistic_Actions,N3_Probabilistic_Actions,,
-3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,N4_MDP,,
-3,Feb,3,Wed,Frank,,,Markov Decision Processes (cont'd),,-,-,,2 out - 1 due (Fri 5)
-4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and Inference,BN,L5_Bayes_Nets,N5_Bayes_nets,,Agents
-4,Feb,10,Wed,Frank,,,Inference in Factor Graphs,FG,L6_Inference_Factor_Graphs,N6_Inference_Factor_Graphs,Quiz 1,
-5,Feb,15,Mon,Seth,Blind Duckiebot,Fully observable ,Part II: Kinematics in the Plane,,L7_Pose_in_the_Plane_and_diff_drive_robots,-,,
-5,Feb,17,Wed,Seth,,,Sampling-based Planning Part 1,(FG),L8_Sampling-Based_Planning-Part1,-,,3 out - 2 due (Fri 19)
-6,Feb,22,Mon,Seth,,Action Uncertainty ,Sampling-based Planning Part 2,,L9_Sampling-Based_Planning-Part2,-,,Motion Planning
-6,Feb,24,Wed,Frank,,,Continuous densities,BN,L10_Continuous_Densities,N10_Continuous_Densities,,
-7,Mar,1,Mon,Frank,,State Uncertainty,Monte Carlo Localization,(FG),L11_Monte_Carlo_Inference,N11_Monte_Carlo_Inference,Quiz 2,
-7,Mar,3,Wed,Seth,Car + LIDAR,,Part III: Autonomous Vehicles,,L12_Motion_Planning_for_Cars,-,,4 out - 3 due (Fri 5)
-8,Mar,8,Mon,Frank,,,Trajectory Optimization,FG,-,-,,Monte Carlo Localization
-8,Mar,10,Wed,Seth,,,Iterated Closest Points,,-,-,,
-9,Mar,15,Mon,Frank,,,SLAM with LIDAR,FG,-,-,Quiz 3,
-9,Mar,17,Wed,Frank,Seeing Duckiebot,,Part IV: Computer Vision Fundamentals,,-,-,,4 due (Fri 19)
-10,Mar,22,Mon,Seth,,,Pinhole Cameras,,-,-,,
-10,Mar,24,Wed,,,,Minibreak,,-,-,,5 out  (Fri 12)
-11,Mar,29,Mon,Frank,,,Visual SLAM,FG,-,-,,SLAM with LIDAR
-11,Mar,31,Wed,Frank,,,Deep Learning for Vision,,-,-,Quiz 4,
-12,Apr,5,Mon,Seth,Drone,,Part V: Drones and SE(3),,-,-,,
-12,Apr,7,Wed,Frank,,,Continuous Path Planning,FG,-,-,,6 out - 5 due (Fri 9)
-13,Apr,12,Mon,Frank,,,Stereo Vision -> 3D world,,-,-,,Object Detection
-13,Apr,14,Wed,Frank,,,3D Mapping,,-,-,Quiz 5,
-14,Apr,19,Mon,Seth,Articulated Robots,,Part VI: Manipulators,,-,-,,
-15,Apr,21,Wed,Frank,,,Trajectory Optimization for MP,FG,-,-,,6 due (Fri 23 mn)
-15,Apr,26,Mon,Guest,,,Legged Robots,BN,-,-,,
+﻿Week,Month,Date,Day,Instructor,Module,Organization,Topic,GM,Slides,Reading,Quizzes,Projects,
+1,Jan,18,Mon,,,,MLK,,-,-,,,
+1,Jan,20,Wed,Frank,,,Introduction,,L1_Introduction,-,,1 out (Fri 22 noon),
+2,Jan,25,Mon,Seth,Agents,Fully observable ,Part I: Sense-Think-Act/Graph Search,,L2_Sense_Think_Act_and_Graph_Search,-,,Braitenberg,
+2,Jan,27,Wed,Frank,,Action Uncertainty ,Probabilistic Actions,BN,L3_Probabilistic_Actions,N3_Probabilistic_Actions,,,
+3,Feb,1,Mon,Seth,,,Markov Decision Processes,,L4_Markov_Decision_Processes,N4_MDP,,,
+3,Feb,3,Wed,Frank,,,Markov Decision Processes (cont'd),,-,-,,2 out - 1 due (Fri 5),
+4,Feb,8,Mon,Seth,,State Uncertainty,Bayes Nets and Inference,BN,L5_Bayes_Nets,N5_Bayes_nets,,Agents,
+4,Feb,10,Wed,Frank,,,Inference in Factor Graphs,FG,L6_Inference_Factor_Graphs,N6_Inference_Factor_Graphs,Quiz 1,,
+5,Feb,15,Mon,Seth,Blind Duckiebot,Fully observable ,Part II: Kinematics in the Plane,,L7_Pose_in_the_Plane_and_diff_drive_robots,-,,,
+5,Feb,17,Wed,Seth,,,Sampling-based Planning Part 1,(FG),L8_Sampling-Based_Planning-Part1,-,,3 out - 2 due (Fri 19),
+6,Feb,22,Mon,Seth,,Action Uncertainty ,Sampling-based Planning Part 2,,L9_Sampling-Based_Planning-Part2,-,,Motion Planning,3
+6,Feb,24,Wed,Frank,,,Continuous densities,BN,L10_Continuous_Densities,N10_Continuous_Densities,,,3
+7,Mar,1,Mon,Frank,,State Uncertainty,Monte Carlo Localization,(FG),L11_Monte_Carlo_Inference,N11_Monte_Carlo_Inference,Quiz 2,,3
+7,Mar,3,Wed,Seth,Car + LIDAR,,Part III: Autonomous Vehicles,,L12_Motion_Planning_for_Cars,-,,,3
+8,Mar,8,Mon,Frank,,,Trajectory Optimization,FG,-,-,,4-out (MCL),3
+8,Mar,10,Wed,Seth,,,Iterated Closest Points,,-,-,,3 -due (Fri 12),4
+9,Mar,15,Mon,Frank,,,SLAM with LIDAR,FG,-,-,Quiz 3,,4
+9,Mar,17,Wed,Frank,Seeing Duckiebot,,Part IV: Computer Vision Fundamentals,,-,-,,,4
+10,Mar,22,Mon,Seth,,,Pinhole Cameras,,-,-,,,4
+10,Mar,24,Wed,,,,Minibreak,,-,-,,4 due - 5 out  (Fri 26),break
+11,Mar,29,Mon,Frank,,,Visual SLAM,FG,-,-,,SLAM with LIDAR,5
+11,Mar,31,Wed,Frank,,,Deep Learning for Vision,,-,-,Quiz 4,,5
+12,Apr,5,Mon,Seth,Drone,,Part V: Drones and SE(3),,-,-,,,5
+12,Apr,7,Wed,Frank,,,Continuous Path Planning,FG,-,-,,6 out - 5 due (Fri 9),5
+13,Apr,12,Mon,Frank,,,Stereo Vision -> 3D world,,-,-,,Object Detection,6
+13,Apr,14,Wed,Frank,,,3D Mapping,,-,-,Quiz 5,,6
+14,Apr,19,Mon,Seth,Articulated Robots,,Part VI: Manipulators,,-,-,,,6
+15,Apr,21,Wed,Frank,,,Trajectory Optimization for MP,FG,-,-,,6 due (Fri 23 mn),6
+15,Apr,26,Mon,Guest,,,Legged Robots,BN,-,-,,,GL
