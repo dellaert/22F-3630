@@ -13,7 +13,7 @@
 6,Feb,24,Wed,Frank,,,Continuous densities,BN,L10_Continuous_Densities,N10_Continuous_Densities,,,3
 7,Mar,1,Mon,Frank,,State Uncertainty,Monte Carlo Localization,(FG),L11_Monte_Carlo_Inference,N11_Monte_Carlo_Inference,Quiz 2,,3
 7,Mar,3,Wed,Seth,Car + LIDAR,,Part III: Autonomous Vehicles,,L12_Motion_Planning_for_Cars,-,,,3
-8,Mar,8,Mon,Frank,,,Trajectory Optimization,FG,-,-,,4-out (MCL),3
+8,Mar,8,Mon,Frank,,,Trajectory Optimization,FG,L13_Trajectory_Optimization,N13_Trajectory_Optimization,,4-out (MCL),3
 8,Mar,10,Wed,Seth,,,Iterated Closest Points,,L14_ICP,-,,3 -due (Fri 12),4
 9,Mar,15,Mon,Frank,,,SLAM with LIDAR,FG,-,-,Quiz 3,,4
 9,Mar,17,Wed,Frank,Seeing Duckiebot,,Part IV: Computer Vision Fundamentals,,-,-,,,4
