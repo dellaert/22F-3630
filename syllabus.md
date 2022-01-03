@@ -22,11 +22,11 @@ The course requires access to a laptop.  If you don’t have access to a laptop,
 **Important: You cannot take this class unless you can make the regularly scheduled class periods at 3.30pm**.
 
 - **Lectures** will be pre-recorded and available 2 workdays before class time. Students are expected to watch the lecture *before* each class time.
-- **Questionnaires**: to reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire by Sunday evening about the two lectures assigned for viewing. This will count for **5%** of your grade.
+- **Questionnaires**: to reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire on Canvas by Sunday evening about the two lectures assigned for viewing. This will count for **5%** of your grade.
 - **Quizzes**: there will be 5 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%**. Quizzes will have a combination of multiple choice and essay questions, as appropriate.
 - **Q&A**: students are expected to attend each class period, Monday and Wednesday at 3.30. Class will start with a 30 minute quick review and Q&A, followed by project-related activities (see below).
 - **Activities**: there will be six projects, each having an in-class activity component which forms an integral part of your participation grade, for a total of **5%**. For these activities, you will be placed in groups that will remain stable for two projects, then shuffled.
-- **Projects**: each project will additionally have a powerpoint template that will have to be submitted on [Gradescope](https://www.gradescope.com/courses/228128) as a pdf and, possibly accompanied with code and/or videos. Project are released and are due on Fridays, and project deliverables will make up **60%** of your grade.
+- **Projects**: each project will additionally have a powerpoint template that will have to be submitted on Gradescope as a pdf and, possibly accompanied with code and/or videos. Project are released and are due on Fridays, and project deliverables will make up **60%** of your grade.
 
 ### Grading
 The grading distribution is:
@@ -57,15 +57,24 @@ If needed, we will make classroom accommodations for students with documented di
 * [Gradescope](https://www.gradescope.com/courses/228128) is where you will submit assignments. It is also available from the Canvas menu.
 
 ### Contact Info and Office Hours:
-Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information (your gt id number etc.), make a private post on Piazza.
+Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information, make a private post on Piazza.
 
-The TA office hours will be announced, with an accompanying Bluejeans link, in a pinned post on Piazza.
+The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. Hope you know where the 3630 Lab is (that's right, we have a lab just for 3630!) - in the basement of the College of Computing building. We have some really cool fairy lights, a large television screen and most importantly, lots of snacks! Do come for our TA hours and get all your doubts clarified! :) 
 
-* Binit Shah
-* Yetong Zhang
 * Rachit Bhargava
-* Dashiel Heidt
-* Pratyusha Karnati
+* Bikram Boote
+* Ishan Chadha
+* Jerred Chen
+* Youssef Elmougy
+* Abhinav Gupta
+* Asha Gutlapalli
+* Abhineet Jain
+* Zhen Jiang
+* Lixing Liu
+* Vivek Mallampati
+* Junyan Mao
+* Andrew Messing
+* Adam Patni
 * Maya Rajan
 * John Yi
 

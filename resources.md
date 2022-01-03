@@ -18,6 +18,8 @@ title: Resources
 
 ## Course Notes
 
+You can find the draft version [here!](https://github.com/dellaert/robotics2)
+
 ### Agents
 TBA
 ### Blind Duckiebot
