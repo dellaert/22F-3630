@@ -22,18 +22,17 @@ The course requires access to a laptop.  If you don’t have access to a laptop,
 
 **Important: You cannot take this class unless you can make the regularly scheduled class periods at 3.30pm**.
 
-- **Lectures** will be live on Microsoft Teams! 
-- **Questionnaires**: to reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire on Canvas by Sunday evening about the two lectures assigned for viewing. This will count for **10%** of your grade.
-- **Quizzes**: there will be 6 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%** (we will pick the best 5 out of 6). Quizzes will have a combination of multiple choice and essay questions, as appropriate.
-- **Q&A**: students are expected to attend each class period, Monday and Wednesday at 3.30. <!-- Class will start with a 30 minute quick review and Q&A, followed by project-related activities (see below). -->
-- **Projects**: <!-- each project will additionally have a powerpoint template that will have to be submitted on Gradescope as a pdf and, possibly accompanied with code and/or videos. --> <!-- Project are released and are due on Fridays, and p -->Project deliverables will make up **60%** of your grade. There will be 6 projects based on the 6 modules, and you will submit your code and reports on gradescope. 
+- **Lectures** will be **live** on Microsoft Teams! You have already been added to the Team for this class. Please email us if you are unable to access it from your GT Teams account. 
+- **Questionnaires**: To reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire on Canvas about the two lectures from the preceding week. We shall release the questionnaires every Thursday and you'll have until Sunday night to complete them. This will count for **10%** of your grade. We anticipate about 11-12 questionnaires throughout the semester. 
+- **Quizzes**: there will be 6 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%** (we will pick the best 5 out of 6). Quizzes will have a combination of multiple choice and short essay questions, as appropriate.
+- **Projects**: Project deliverables are the most significant component of this course and will make up **60%** of your final grade. There will be 6 projects based on the 6 modules, and you will submit your code and reports on gradescope. <!-- each project will additionally have a powerpoint template that will have to be submitted on Gradescope as a pdf and, possibly accompanied with code and/or videos. --> <!-- Project are released and are due on Fridays, and p -->
 
 ### Grading
 The grading distribution is:
 
 | Component      | Nr. | Grade | Total |
 |----------------|-----|-------|-------|
-| Questionnaires |     |       |  10%  |
+| Questionnaires | -   |  -    |  10%  |
 | Quizzes        | 5   | 6%    |  30%  |
 | Projects       | 6   | 10%   |  60%  |
 |                |     |       | 100%  |
@@ -51,12 +50,12 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the ADAPTS office (www.adapts.gatech.edu).
 
 ### Important Links:
-* Piazza! This should be your first stop for questions and announcements.
-* [canvas.gatech.edu](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos .
-* Gradescope is where you will submit assignments. It is also available from the Canvas menu.
+* [Piazza!](https://piazza.com/class/kxtmafdutrp43f) This should be your first stop for questions and announcements. 
+* [Gradescope](https://www.gradescope.com/courses/349667) is where you will submit assignments. It is also available from the Canvas menu.
+* [Canvas](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos.
 
 ### Contact Info and Office Hours:
-Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information, make a private post on Piazza.
+Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information, you can make a private post on Piazza.
 
 The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. Hope you know where the 3630 Lab is (that's right, we have a lab just for 3630!) - in the basement of the College of Computing building. We have some really cool fairy lights and a large television screen. Do come for our TA hours and get all your doubts clarified! 
 

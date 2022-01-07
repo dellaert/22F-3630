@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Projects
+title: Project 3
 ---
 TBD

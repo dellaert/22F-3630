@@ -5,4 +5,4 @@ title: Book
 
 # Book
 
-We are working on a book based these lectures, but it is still very drafty. We will distribute course notes to the students as the course progresses. You can find the current version of the book [here](https://github.com/dellaert/robotics2). 
+We are working on a book based these lectures, but it is still very drafty. This will be an interactive jupyter book with text, diagrams and snippets of code in the middle, so it's easy for you to play around and understand the concepts. We shall link it here very soon! 
