@@ -18,6 +18,11 @@ Upon completion of this course, students will be able to:
 The only formal prerequisite is CS1332 Data Structures & Algorithms. Prior knowledge of fundamentals of linear algebra and probability is helpful, but not required.  Background in AI and Machine Learning is not assumed.
 The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python.
 
+### Important Links:
+* [Piazza!](https://piazza.com/class/kxtmafdutrp43f) This should be your first stop for questions and announcements. 
+* [Gradescope](https://www.gradescope.com/courses/349667) is where you will submit projects. It is also available from the Canvas menu.
+* [Canvas](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos.
+
 ### Lecture Delivery and Grading Components
 
 **Important: You cannot take this class unless you can make the regularly scheduled class periods at 3.30pm**.
@@ -37,7 +42,9 @@ The grading distribution is:
 | Projects       | 6   | 10%   |  60%  |
 |                |     |       | 100%  |
 
-<!-- The Late policy for this course will be 20% per day late. -->
+### Project Late Policy
+
+The late policy for projects is to linearly decrease the maximum score from 100 to 0, starting at the submission deadline (Friday, 23:59:59) and ending the following Monday, 23:59:59.  Thus, the maximum possible score decreases continuously from 100 to zero over the 72 hour period following the submission deadline (e.g., if you submit your project exactly 29 hours and 30 minutes late, you would have a maximum possible score of 59.02777777777778%).
 
 ### Academic Integrity
 Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu. 
@@ -48,11 +55,6 @@ You should not view or edit anyone else's code. You should not post code to Piaz
 
 ### Learning Accommodations
 If needed, we will make classroom accommodations for students with documented disabilities. These accommodations must be arranged in advance and in accordance with the ADAPTS office (www.adapts.gatech.edu).
-
-### Important Links:
-* [Piazza!](https://piazza.com/class/kxtmafdutrp43f) This should be your first stop for questions and announcements. 
-* [Gradescope](https://www.gradescope.com/courses/349667) is where you will submit assignments. It is also available from the Canvas menu.
-* [Canvas](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos.
 
 ### Contact Info and Office Hours:
 Use Piazza to ask questions and seek clarifications. If you have a very specific question (related to your grade etc.) or a question that involves your personal information, you can make a private post on Piazza.
