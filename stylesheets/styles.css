@@ -57,7 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -97,14 +97,14 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:14px;
   color:#777;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#FFD580;
 }
 
 .wrapper {
