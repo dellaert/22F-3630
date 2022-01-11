@@ -21,18 +21,19 @@ title: Schedule
       <td>{{item.Day}}, {{item.Month}} {{item.Date}}</td>
       <td>{{item.Module}}</td>
       <td>{{item.Topic}}</td>
-      <td>
+      <td>{{item.Reading}}</td>
+      <!-- <td>
         {% unless item.Slides == "-" %}
           <a href="Slides/{{item.Slides}}.pdf">pdf</a>
         {% endunless %}
-      </td>
-      <td>
+      </td> -->
+      <!-- <td>
         {% unless item.Reading == "-" %}
           <a href="notes/{{item.Reading}}.pdf">pdf</a>
         {% endunless %}
-      </td>
-      <td>{{item.Projects}}</td>
+      </td> -->
       <td>{{item.Quizzes}}</td>
+      <td>{{item.Projects}}</td>
     </tr>
     {% endfor %}
   </tbody>
