@@ -5,6 +5,8 @@ title: Syllabus
 
 ## Syllabus
 
+TBD
+<!-- 
 ### Learning Objectives
 Upon completion of this course, students will be able to:
 * Describe and explain what robots are and what they can do
@@ -30,7 +32,7 @@ The course requires access to a laptop.  If you don’t have access to a laptop,
 - **Lectures** will be **live** on Microsoft Teams! You have already been added to the Team for this class. Please email us if you are unable to access it from your GT Teams account. 
 - **Questionnaires**: To reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire on Canvas about the two lectures from the preceding week. We shall release the questionnaires every Thursday and you'll have until Sunday night to complete them. This will count for **10%** of your grade. We anticipate about 11-12 questionnaires throughout the semester. 
 - **Quizzes**: there will be 6 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%** (we will pick the best 5 out of 6). Quizzes will have a combination of multiple choice and short essay questions, as appropriate.
-- **Projects**: Project deliverables are the most significant component of this course and will make up **60%** of your final grade. There will be 6 projects based on the 6 modules, and you will submit your code and reports on gradescope. <!-- each project will additionally have a powerpoint template that will have to be submitted on Gradescope as a pdf and, possibly accompanied with code and/or videos. --> <!-- Project are released and are due on Fridays, and p -->
+- **Projects**: Project deliverables are the most significant component of this course and will make up **60%** of your final grade. There will be one ungraded tutorial (project 0) and "real" 6 projects based on the 6 modules, and you will submit your code and reports on gradescope.
 
 ### Grading
 The grading distribution is:
@@ -61,22 +63,8 @@ Use Piazza to ask questions and seek clarifications. If you have a very specific
 
 The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. Hope you know where the 3630 Lab is (that's right, we have a lab just for 3630!) - in the basement of the College of Computing building. We have some really cool fairy lights and a large television screen. Do come for our TA hours and get all your doubts clarified! 
 
-* Rachit Bhargava
-* Bikram Boote
-* Ishan Chadha
-* Jerred Chen
-* Youssef Elmougy
-* Abhinav Gupta
-* Asha Gutlapalli
-* Abhineet Jain
-* Zhen Jiang
-* Lixing Liu
-* Vivek Mallampati
-* Junyan Mao
-* Andrew Messing
-* Adam Patni
-* Maya Rajan
-* John Yi
+* Matthew King-Smith
+* TBD
 
 ### Acknowledgements
-The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.
+The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements. -->
