@@ -1,6 +1,6 @@
 ﻿Week,Month,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
-1,Aug,23,Tue,,Introduction,-,-,,Intro to Python
-1,Aug,25,Thu,Sorting,"State, probability, and actions",-,-,,
+1,Aug,23,Tue,,Introduction,L1_Course_Overview,-,,Intro to Python
+1,Aug,25,Thu,Sorting,"State, probability, and actions",L2_Intro_to_Robot_Systems,-,,
 2,Aug,30,Tue,Sorting,Sensor Models,-,-,,P1: Probability and Decision Theory
 2,Sep,1,Thu,Sorting,Bayes Law,-,-,,
 3,Sep,6,Tue,Sorting,Decision Theory,-,-,,
