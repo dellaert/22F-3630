@@ -2,7 +2,7 @@
 1,Aug,23,Tue,,Introduction,L1_Course_Overview,-,,Intro to Python
 1,Aug,25,Thu,Sorting,"State, probability, and actions",L2_Intro_to_Robot_Systems,-,,
 2,Aug,30,Tue,Sorting,Sensor Models,L3_Trash_Robot_1,-,,P1: Probability and Decision Theory
-2,Sep,1,Thu,Sorting,Bayes Law,-,-,,
+2,Sep,1,Thu,Sorting,Bayes Law,L4_Trash_Robot_2,-,,
 3,Sep,6,Tue,Sorting,Decision Theory,-,-,,
 3,Sep,8,Thu,Vacuum,Probabilistic Actions,-,-,Quiz 1,
 4,Sep,13,Tue,Vacuum,Inference in HMMs,-,-,,P2: HMM and MDP
@@ -30,3 +30,5 @@
 15,Nov,29,Tue,Extra,Guest Lecture TBD,-,-,Quiz 6,
 15,Dec,1,Thu,Extra,Guest Lecture TBD,-,-,,
 16,Dec,6,Tue,Extra,Guest Lecture TBD,-,-,,"P6 due, all quizzes graded!"
+,,,,,,,,,
+,,,,,,,,,
