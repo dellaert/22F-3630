@@ -1,9 +1,9 @@
 ﻿Week,Month,Date,Day,Module,Topic,Slides,Reading,Quizzes,Projects
 1,Aug,23,Tue,,Introduction,L1_Course_Overview,-,,Intro to Python
-1,Aug,25,Thu,Sorting,"State, probability, and actions",L2_Intro_to_Robot_Systems,-,,
-2,Aug,30,Tue,Sorting,Sensor Models,L3_Trash_Robot_1,-,,P1: Probability and Decision Theory
-2,Sep,1,Thu,Sorting,Bayes Law,L4_Trash_Robot_2,-,,
-3,Sep,6,Tue,Sorting,Decision Theory,-,-,,
+1,Aug,25,Thu,Sorting,Six aspects of robotics systems,L2_Intro_to_Robot_Systems,-,,
+2,Aug,30,Tue,Sorting,"State, probability, and actions",L3_Trash_Robot_1,-,,P1: Probability and Decision Theory
+2,Sep,1,Thu,Sorting,Sensor Models,L4_Trash_Robot_2,-,,
+3,Sep,6,Tue,Sorting,Perception and Planning,L5_Trash_Robot_3,-,,
 3,Sep,8,Thu,Vacuum,Probabilistic Actions,-,-,Quiz 1,
 4,Sep,13,Tue,Vacuum,Inference in HMMs,-,-,,P2: HMM and MDP
 4,Sep,15,Thu,Vacuum,"Inference, MDPs",-,-,,
