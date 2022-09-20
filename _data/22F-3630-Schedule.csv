@@ -5,29 +5,29 @@
 2,Sep,1,Thu,Sorting,Sensor Models,L4_Trash_Robot_2,-,,
 3,Sep,6,Tue,Sorting,Perception and Planning,L5_Trash_Robot_3,-,,
 3,Sep,8,Thu,Vacuum,Probabilistic Actions,L6_Vacuuming_Robot_1,-,Quiz 1,
-4,Sep,13,Tue,Vacuum,Inference in HMMs,L7_Vacuuming_Robot_2,-,,P2: HMM and MDP
-4,Sep,15,Thu,Vacuum,"Inference, MDPs",L8_Vacuuming_Robot_3,-,,
-5,Sep,20,Tue,Vacuum,MDPs,-,-,,
-5,Sep,22,Thu,Logistics,Omnidirectional wheels,-,-,Quiz 2,
-6,Sep,27,Tue,Logistics,LIDAR sensing,-,-,,P3: Particle Filters
-6,Sep,29,Thu,Logistics,Monte Carlo Localization,-,-,,
-7,Oct,4,Tue,Logistics,Planning,-,-,,
-7,Oct,6,Thu,Duckiebot,Differential Drive,-,-,Quiz 3,
-8,Oct,11,Tue,Duckiebot,Cameras and Image Processing,-,-,,P3 due
-8,Oct,13,Thu,Duckiebot,Computer Vision 101,-,-,,
-9,Oct,18,Tue,Fall Break,Fall Break,-,-,,
-9,Oct,20,Thu,Duckiebot,Inference with Deep Nets,-,-,,
-10,Oct,25,Tue,Duckiebot,Deep Learning,-,-,,P4: Deep Learning
-10,Oct,27,Thu,Vehicles,Autonomous Vehicles and SE(2),-,-,Quiz 4,
-11,Nov,1,Tue,Vehicles,Ackerman steering,-,-,,
-11,Nov,3,Thu,Vehicles,SLAM with 3D LIDAR,-,-,,
-12,Nov,8,Tue,Vehicles,Planning for Avs,-,-,,P5: Pose SLAM and LIDAR
-12,Nov,10,Thu,Drone,SE(3),-,-,Quiz 5,
-13,Nov,15,Tue,Drone,RRTs for motion planning,-,-,,
-13,Nov,17,Thu,Drone,Visual Odometry,-,-,,
-14,Nov,22,Tue,Drone,Trajectory Optimization,-,-,,P6: RRT and/or Trajectory Optimization
+4,Sep,13,Tue,Vacuum,Controlled Markov Chains,L7_Vacuuming_Robot_2,-,,P2: HMM and MDP
+4,Sep,15,Thu,Vacuum,Sensors and Bayes Nets,L8_Vacuuming_Robot_3,-,,
+5,Sep,20,Tue,Vacuum,Inference in HMMs,L9_Vacuuming_Robot_4,-,,
+5,Sep,22,Thu,Vacuum,Markov Decision Processes,L10_Vacuuming_Robot_5,-,Quiz 2,
+6,Sep,27,Tue,Logistics,Omnidirectional wheels,-,-,,P3: Particle Filters
+6,Sep,29,Thu,Logistics,LIDAR sensing,-,-,,
+7,Oct,4,Tue,Logistics,Monte Carlo Localization,-,-,,
+7,Oct,6,Thu,Logistics,Planning,-,-,Quiz 3,
+8,Oct,11,Tue,Duckiebot,Differential Drive,-,-,,P3 due
+8,Oct,13,Thu,Duckiebot,Cameras and Image Processing,-,-,,
+9,Oct,18,Tue,Fall Break,Computer Vision 101,-,-,,
+9,Oct,20,Thu,Duckiebot,Computer Vision 101,-,-,,
+10,Oct,25,Tue,Duckiebot,Inference with Deep Nets,-,-,,P4: Deep Learning
+10,Oct,27,Thu,Duckiebot,Deep Learning,-,-,Quiz 4,
+11,Nov,1,Tue,Vehicles,Autonomous Vehicles and SE(2),-,-,,
+11,Nov,3,Thu,Vehicles,Ackerman steering,-,-,,
+12,Nov,8,Tue,Vehicles,SLAM with 3D LIDAR,-,-,,P5: Pose SLAM and LIDAR
+12,Nov,10,Thu,Vehicles,Planning for Avs,-,-,Quiz 5,
+13,Nov,15,Tue,Drone,SE(3),-,-,,
+13,Nov,17,Thu,Drone,RRTs for motion planning,-,-,,
+14,Nov,22,Tue,Drone,Visual Odometry,-,-,,P6: RRT and/or Trajectory Optimization
 14,Nov,24,Thu,Thanksgiving,Thanksgiving,-,-,,
-15,Nov,29,Tue,Extra,Guest Lecture TBD,-,-,Quiz 6,
+15,Nov,29,Tue,Drone,Trajectory Optimization,-,-,Quiz 6,
 15,Dec,1,Thu,Extra,Guest Lecture TBD,-,-,,
 16,Dec,6,Tue,Extra,Guest Lecture TBD,-,-,,"P6 due, all quizzes graded!"
 ,,,,,,,,,
