@@ -13,10 +13,10 @@
 6,Sep,29,Thu,Logistics,Continuous Motion and Sensing,L12_Logistics_Robot_2,-,,
 7,Oct,4,Tue,Logistics,Markov Localization and MCL,L13_Logistics_Robot_3,-,,
 7,Oct,6,Thu,Logistics,More MCL and MDPs,L14_Logistics_Robot_4,-,Quiz 3,
-8,Oct,11,Tue,Duckiebot,Differential Drive,L15_DDRs_1,-,,"P3 due, pause on projects until Oct 10"
-8,Oct,13,Thu,Duckiebot,Cameras and Image Processing,L16_DDRs_2,-,,
+8,Oct,11,Tue,Duckiebot,Differential Drive,L15_DDRs_1,5.1-5.2,,"P3 due, pause on projects until Oct 10"
+8,Oct,13,Thu,Duckiebot,Cameras and Image Processing,L16_DDRs_2,5.3,,
 9,Oct,18,Tue,Fall Break,-,-,-,,
-9,Oct,20,Thu,Duckiebot,Computer Vision 101,-,-,,
+9,Oct,20,Thu,Duckiebot,Computer Vision 101,L17_DDRs_3_vision,5.4,,
 10,Oct,25,Tue,Duckiebot,Inference with Deep Nets,-,-,,P4: Deep Learning
 10,Oct,27,Thu,Duckiebot,Deep Learning,-,-,Quiz 4,
 11,Nov,1,Tue,Vehicles,Autonomous Vehicles and SE(2),-,-,,
