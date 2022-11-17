@@ -24,7 +24,7 @@
 12,Nov,8,Tue,Vehicles,LIDAR sensors,L22_Driving_3_LIDAR,6.3,,P5: Pose SLAM and LIDAR
 12,Nov,10,Thu,Vehicles,ICP and Pose SLAM,L23_Driving_4_SLAM,6.4,,P4 Due
 13,Nov,15,Tue,Vehicles,Planning for Driving,L24_Driving_5_Planning,6.5,Quiz 5,
-13,Nov,17,Thu,Drone,SE(3),-,-,,
+13,Nov,17,Thu,Drone,SE(3),L24_Drones_1_SE3,7.1,,
 14,Nov,22,Tue,Drone,Visual Odometry,-,-,,P6: RRT and/or Trajectory Optimization
 14,Nov,24,Thu,Thanksgiving,Thanksgiving,-,-,,
 15,Nov,29,Tue,Drone,RRTs for motion planning,-,-,Quiz 6,
