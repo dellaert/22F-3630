@@ -25,10 +25,10 @@
 12,Nov,10,Thu,Vehicles,ICP and Pose SLAM,L23_Driving_4_SLAM,6.4,,P4 Due
 13,Nov,15,Tue,Vehicles,Planning for Driving,L24_Driving_5_Planning,6.5,Quiz 5,
 13,Nov,17,Thu,Drone,SE(3),L24_Drones_1_SE3,7.1,,
-14,Nov,22,Tue,Drone,Visual Odometry,L25_Drones_2_Actions,-,,P6: RRT and/or Trajectory Optimization
+14,Nov,22,Tue,Drone,Actions for Drones,L25_Drones_2_Actions,7.2,,P6: RRT and/or Trajectory Optimization
 14,Nov,24,Thu,Thanksgiving,Thanksgiving,-,-,,
-15,Nov,29,Tue,Drone,RRTs for motion planning,-,-,Quiz 6,
-15,Dec,1,Thu,Drone,Trajectory Optimization,-,-,,
-16,Dec,6,Tue,Extra,Guest Lecture TBD,-,-,,"P6 due, all quizzes graded!"
+15,Nov,29,Tue,Drone,Drone sensors,L26_Drones_3_Sensing,7.3,,
+15,Dec,1,Thu,Drone,Trajectory Optimization & RRT,-,7.5,Quiz 6,
+16,Dec,6,Tue,Drone,Visual SLAM,-,7.4,,"P6 due, all quizzes graded!"
 ,,,,,,,,,
 ,,,,,,,,,
